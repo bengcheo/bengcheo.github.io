@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./https://github.com/bengcheo/NLP-Work/blob/main/Topic_Modelling_on_Job_Adverts.ipynb).
 
 There should be whitespace between paragraphs.
 
