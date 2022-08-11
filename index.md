@@ -28,7 +28,6 @@ This project aims to build a CNN model which uses photographs of moles and diffe
 
 ![Branching](./assets/img/moles.png).
 
-
 ## Predicing House Prices in Australia
 
 _Published: 6th-Apr-2022_
@@ -39,7 +38,9 @@ Surprise Housing is looking to invest in the Australian market, but being new to
 
 [Link to Github repository](https://github.com/bengcheo/housingprices)
 
-![Branching](./assets/img/wordcloud.png).
+![Branching](./assets/img/housingprices.png).
+
+Image obtained from Archistar: https://www.archistar.ai/wp-content/uploads/2022/03/Determining-Future-House-Prices-And-Their-Impact-on-Property-Development.jpg
 
 ## Bike Sharing in the United States
 
@@ -52,7 +53,8 @@ This project aims to help US bike-sharing company, BoomBikes, identify the facto
 [Link to Github repository](https://github.com/bengcheo/bikesharing)
 
 ![Branching](./assets/img/bikesharing.png).
-Image obtained from Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/00_2141_Bicycle-sharing_systems_-_Sweden.jpg/1200px-00_2141_Bicycle-sharing_systems_-_Sweden.jpg " %}
+
+Image obtained from Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/00_2141_Bicycle-sharing_systems_-_Sweden.jpg/1200px-00_2141_Bicycle-sharing_systems_-_Sweden.jpg
 
 ## Lending Club EDA
 
@@ -66,7 +68,9 @@ If the applicant is likely to repay the loan, then not approving the loan result
 
 [Link to Github repository](https://github.com/bengcheo/lendingclub)
 
-![Branching](./assets/img/wordcloud.png).
+![Branching](./assets/img/lendingclub.png).
+
+Image obtained from Lending Club: https://investorjunkie.com/wp-content/uploads/2015/05/lending-club-2.png
 
 ## Latent Dirichlet allocation on job listings
 
