@@ -51,7 +51,7 @@ This project aims to help US bike-sharing company, BoomBikes, identify the facto
 
 [Link to Github repository](https://github.com/bengcheo/bikesharing)
 
-![Branching](./assets/img/wordcloud.png).
+{% include figure image_path="/assets/img/bikesharing.png" alt="Bikes for Sharing" caption="Image obtained from Wikipedia: https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/00_2141_Bicycle-sharing_systems_-_Sweden.jpg/1200px-00_2141_Bicycle-sharing_systems_-_Sweden.jpg " %}
 
 ## Lending Club EDA
 
