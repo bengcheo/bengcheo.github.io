@@ -34,9 +34,9 @@ This project aims to build a CNN model which uses photographs of moles and diffe
 
 _Published: 10th-May-2022_
 
-_Updated: 10th-May-202_
+_Updated: 10th-May-2022_
 
-This project aims to build several Machine Learning models (with a Logistics Regression model as the baseline, build a Logistics Regression model with Regularization, Random Forest model, XGBoost Model) in order to predict whether customers from a telecom will churn. The metric that determines the strength of our model is Recall.
+This project aims to build several Machine Learning models (with a Logistics Regression model as the baseline, build a Logistics Regression model with Regularization, Random Forest model, XGBoost Model) in order to predict whether customers from a telecom will churn. The metric that determines the strength of our model is Recall metric.
 
 [Link to Github repository](https://github.com/bengcheo/skin_cancer_detection)
 
