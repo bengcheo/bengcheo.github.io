@@ -38,7 +38,7 @@ _Updated: 10th-May-2022_
 
 This project aims to build several Machine Learning models (with a Logistics Regression model as the baseline, build a Logistics Regression model with Regularization, Random Forest model, XGBoost Model) in order to predict whether customers from a telecom will churn. The metric that determines the strength of our model is Recall metric.
 
-[Link to Github repository](https://github.com/bengcheo/skin_cancer_detection)
+[Link to Kaggle Notebook](https://www.kaggle.com/code/theyellowboots/telecom-churn-case-study)
 
 ![Branching](./assets/img/telecom.png).
 
