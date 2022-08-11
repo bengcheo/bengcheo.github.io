@@ -14,7 +14,7 @@ This project aims to build a 3D CNN or a CNN/RNN in order to perform gesture rec
 
 [Link to Github repository](https://github.com/bengcheo/gesture_recognition)
 
-![Branching](./assets/img/wordcloud.png).
+![Branching](./assets/img/gestures.png).
 
 ## Detecting Melanoma through a CNN model.
 
@@ -26,7 +26,7 @@ This project aims to build a CNN model which uses photographs of moles and diffe
 
 [Link to Github repository](https://github.com/bengcheo/skin_cancer_detection)
 
-![Branching](./assets/img/wordcloud.png).
+![Branching](./assets/img/moles.png).
 
 
 ## Predicing House Prices in Australia
