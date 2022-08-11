@@ -16,6 +16,8 @@ This project aims to build a 3D CNN or a CNN/RNN in order to perform gesture rec
 
 ![Branching](./assets/img/gestures.png).
 
+Image obtained from MarkTechPost: https://www.marktechpost.com/wp-content/uploads/2021/12/JEI_30_6_063026_f009.png
+
 ## Detecting Melanoma through a CNN model.
 
 _Published: 15th-Jun-2022_
@@ -27,6 +29,20 @@ This project aims to build a CNN model which uses photographs of moles and diffe
 [Link to Github repository](https://github.com/bengcheo/skin_cancer_detection)
 
 ![Branching](./assets/img/moles.png).
+
+## Telecom Churn Case Study
+
+_Published: 10th-May-2022_
+
+_Updated: 10th-May-202_
+
+This project aims to build several Machine Learning models (with a Logistics Regression model as the baseline, build a Logistics Regression model with Regularization, Random Forest model, XGBoost Model) in order to predict whether customers from a telecom will churn. The metric that determines the strength of our model is Recall.
+
+[Link to Github repository](https://github.com/bengcheo/skin_cancer_detection)
+
+![Branching](./assets/img/telecom.png).
+
+Image obtained from HEAVY.AI: https://assets-global.website-files.com/620d42e86cb8ecb3f739e579/621da98e3868804479cdbbac_AdobeStock_361596081%20copy.jpeg
 
 ## Predicing House Prices in Australia
 
