@@ -22,7 +22,7 @@ Image obtained from MarkTechPost: https://www.marktechpost.com/wp-content/upload
 
 _Published: 15th-Jun-2022_
 
-_Updated: 15th-Jun-202_
+_Updated: 15th-Jun-2022_
 
 This project aims to build a CNN model which uses photographs of moles and different types of skin pigmentations to identify melanoma. Melanoma is a type of cancer that can be deadly if not detected early. It accounts for 75% of skin cancer deaths. Three CNN models were being developed and class was rebalanced to achieve greater recall scores.
 
