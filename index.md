@@ -4,6 +4,25 @@ layout: default
 **Welcome to my data science portfolio.**
 This portfolio contains my work on data science on Kaggle, or for my other courses and job interviews.
 
+## Predicting Daily Sales of Stores - Time Series Analysis.
+
+_Published: 24th-Apr-2023_
+
+_Updated: 24th-Apr-2023_
+
+This project aims to predict the daily sales of stores through time series analysis.
+There will be two approaches to this project.
+
+The first project (completed 2nd-Feb-2023) was aimed at creating a time series model through VAR and VARMAX models.
+
+The second ongoing project wil be aiming at creating a time series model through Deepl Learning models 
+
+[Link to Github repository for first project](https://github.com/bengcheo/store_sales_project)
+
+![Branching](./assets/img/shopping.png).
+
+Image obtained from Pixabay: https://pixabay.com/photos/hangers-clothing-shopping-market-1850082/
+
 ## Gesture Recognition using a 3D CNN or a CNN/RNN layer.
 
 _Published: 13th-Jul-2022_
