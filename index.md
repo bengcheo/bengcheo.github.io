@@ -13,7 +13,7 @@ _Updated: 24th-Apr-2023_
 This project aims to predict the daily sales of stores through time series analysis.
 There will be two approaches to this project.
 
-The first project (completed 2nd-Feb-2023) was aimed at creating a time series model through VAR and VARMAX models.
+The first project (completed 2nd-Feb-2023) was aimed at creating a time series model through VARMA and VARMAX models.
 
 The second ongoing project wil be aiming at creating a time series model through Deepl Learning models 
 
