@@ -39,8 +39,6 @@ Image obtained from Pixabay: https://cdn.pixabay.com/photo/2014/12/10/20/48/labo
 
 ## Gesture Recognition using a 3D CNN or a CNN/RNN layer.
 
-## Gesture Recognition using a 3D CNN or a CNN/RNN layer.
-
 _Published: 13th-Jul-2022_
 
 _Updated: 13th-Jul-2022_
