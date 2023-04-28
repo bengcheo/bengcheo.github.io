@@ -33,7 +33,7 @@ This project aims to build a build an algorithm to map the diseases and their re
 
 [Link to Github repository for first project](https://github.com/bengcheo/partofspeechtagging)
 
-![Branching](./assets/img/medical.png).
+![Branching](./assets/img/medical.jpg).
 
 Image obtained from Pixabay: https://cdn.pixabay.com/photo/2014/12/10/20/48/laboratory-563423_960_720.jpg
 
