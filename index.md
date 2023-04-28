@@ -23,6 +23,22 @@ The second ongoing project wil be aiming at creating a time series model through
 
 Image obtained from Pixabay: https://pixabay.com/photos/hangers-clothing-shopping-market-1850082/
 
+## Part of Speech Tagging for Medical Treatment
+
+_Published: 17th-Aug-2022_
+
+_Updated: 17th-Aug-2022_
+
+This project aims to build a build an algorithm to map the diseases and their respective treatment through building a custom NER to get the list of diseases and their treatment from the dataset. This will allow a web platform, ‘BeHealthy’, to allow doctors to list their services and manage patient interactions and provide services for patients such as booking interactions with doctors and ordering medicines online.
+
+[Link to Github repository for first project](https://github.com/bengcheo/partofspeechtagging)
+
+![Branching](./assets/img/medical.png).
+
+Image obtained from Pixabay: https://cdn.pixabay.com/photo/2014/12/10/20/48/laboratory-563423_960_720.jpg
+
+## Gesture Recognition using a 3D CNN or a CNN/RNN layer.
+
 ## Gesture Recognition using a 3D CNN or a CNN/RNN layer.
 
 _Published: 13th-Jul-2022_
