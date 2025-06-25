@@ -6,6 +6,23 @@ This portfolio contains my work on data science on Kaggle, or for my other cours
 
 ## Predicting Daily Sales of Stores - Time Series Analysis.
 
+_Published: 4th-Dec-2023_
+
+_Updated: 25th-Jun-2025_
+
+This is the code repository for the Jupyter Notebook which was used to perform time-series experiments.
+
+Four different time-serie models were being experimented: 1) ARIMA, 2) VARMA, 3)XGBoost, 4)VARMA-XGBoost
+
+This code was used to support my candidacy for my Master's of Science in Machine Learning and Artificial Intelligence.
+
+[Link to Github repository for Master's project](https://github.com/bengcheo/HybridVARMAXGBoost)
+
+![Branching](./assets/img/store image.png).
+
+
+## Predicting Daily Sales of Stores - Time Series Analysis.
+
 _Published: 24th-Apr-2023_
 
 _Updated: 24th-Apr-2023_
