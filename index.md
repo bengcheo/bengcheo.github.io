@@ -4,7 +4,7 @@ layout: default
 **Welcome to my data science portfolio.**
 This portfolio contains my work on data science on Kaggle, or for my other courses and job interviews.
 
-## Predicting Daily Sales of Stores - Time Series Analysis.
+## Predicting Daily Sales of Stores with four different TSA models.
 
 _Published: 4th-Dec-2023_
 
